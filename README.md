@@ -1,6 +1,6 @@
 ## Martian Language Decipher & Ranking
 
-Notebook ini didedikasikan untuk memecahkan "Bahasa Mars" dari sebuah kompetisi, yang ternyata adalah anagram Bahasa Indonesia dengan pola enkripsi spesifik, lalu mencocokkannya dengan koleksi dokumen Bahasa Inggris.
+Notebook ini didedikasikan untuk memecahkan "Bahasa Mars" yang perlu di decipher untuk mengambil makna asli dalam bahasa yang ada.
 
 ### Tujuan Proyek
 1.  **Dekripsi Pola**: Mengidentifikasi dan mengimplementasikan logika untuk memecahkan anagram Bahasa Mars.
